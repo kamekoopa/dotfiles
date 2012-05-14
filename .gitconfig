@@ -5,3 +5,5 @@
 	st = status
 	lg = log --graph --pretty=oneline --decorate --date=short --abbrev-commit --branches
 	cb = checkout -b
+	br = branch
+	cm = commit
